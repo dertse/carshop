@@ -1,0 +1,14 @@
+{
+  "name": "SUW15dev",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "express-session": "*",
+    "debug": "*",
+    "express": "*",
+    "compression": "*",
+    "serve-favicon": "*",
+    "mongoose": "*"
+  }
+}
